@@ -23,12 +23,6 @@ Patching old favorites through contributions to
 [SilentPatchBully](https://github.com/CookiePLMonster/SilentPatchBully)
 and [WidescreenFixesPack](https://github.com/ThirteenAG/WidescreenFixesPack).
 
-### 🐈 How it usually goes
-
-💭 "I should play something."  
-🐛 "That looks like a bug."  
-🔍 "Where's my debugger?"  
-
 ---
 
 <div align="center">

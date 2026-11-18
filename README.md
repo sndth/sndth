@@ -1,16 +1,38 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sndth/sndth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Some assembly required 😸
 
-Here are some ideas to get you started:
+⚙️ C++ · 🐛 Bug hunting · 🎮 Game modding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build modding tools, patch old games, and chase bugs (especially in C++).
+
+</div>
+
+---
+
+### 🔧 Projects & contributions
+
+📦 **[Modme](https://github.com/sndth/Modme)**  
+My take on simpler game modding, one folder at a time.
+
+🧩 **[fkYAML](https://github.com/fktn-k/fkYAML)**  
+Contributing bug fixes, parser improvements, and performance optimizations.
+
+🎮 **Game fixes**  
+Patching old favorites through contributions to
+[SilentPatchBully](https://github.com/CookiePLMonster/SilentPatchBully)
+and [WidescreenFixesPack](https://github.com/ThirteenAG/WidescreenFixesPack).
+
+### 🐈 How it usually goes
+
+💭 "I should play something."  
+🐛 "That looks like a bug."  
+🔍 "Where's my debugger?"  
+
+---
+
+<div align="center">
+
+*It bothered me, so I patched it.*
+
+</div>
